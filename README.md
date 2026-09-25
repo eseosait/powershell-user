@@ -11,6 +11,12 @@ To practice user provisioning and automation, I used a PowerShell script to crea
 
 > Account passwords used in scripts should be protected and should not be published in a GitHub repository.
 
+## 🎥 Video Demonstrations
+
+### Creating Users with PowerShell
+[Watch the video demonstration](https://youtu.be/q4gMWIettIw?si=x9_IdAU5z6uieCun)
+
+
 ![PowerShell User Creation] <img width="2200" height="1429" alt="96FCC317-019E-4BF2-8D9A-004E074F2399_1_102_o" src="https://github.com/user-attachments/assets/bc87c73f-24ef-4284-91b6-fd867001ba42" /> <img width="2200" height="1429" alt="32047043-755A-4448-9B4C-C548ADCF981B_1_102_o" src="https://github.com/user-attachments/assets/847de1a6-15b6-4b54-bb35-bdaa38fab5f9" />
 
 
